@@ -13,6 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
         },err => {
             console.log(err)
         }, options)
-    },1000)
+    },10000)
 
 })
